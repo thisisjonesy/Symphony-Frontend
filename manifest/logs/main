@@ -1,0 +1,119 @@
+============================================
+Log Created: 2012-04-09T18:47:29+01:00
+============================================
+Symphony Log
+Version: 2.2.5
+--------------------------------------------
+09 April 2012 19:02 > UNKNOWN: GenericExceptionHandler 0 - Could not find extension at location /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/extensions/html5_doctype/extension.driver.php in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.extensionmanager.php on line 617
+09 April 2012 19:03 > UNKNOWN: GenericExceptionHandler 0 - Could not find extension at location /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/extensions/html5_doctype/extension.driver.php in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.extensionmanager.php on line 617
+09 April 2012 19:05 > UNKNOWN: GenericExceptionHandler 0 - Could not find extension at location /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/extensions/html5_doctype/extension.driver.php in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.extensionmanager.php on line 617
+09 April 2012 19:05 > UNKNOWN: GenericExceptionHandler 0 - Could not find extension at location /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/extensions/html5_doctype/extension.driver.php in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.extensionmanager.php on line 617
+09 April 2012 19:09 > UNKNOWN: GenericExceptionHandler 0 - Could not find extension at location /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/extensions/html5_doctype/extension.driver.php in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.extensionmanager.php on line 617
+09 April 2012 19:50 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 19:50 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:12 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:21 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:45: parser error : Opening and ending tag mismatch: meta line 41 and head
+Line: 145 - XSLTProcessor::importStylesheet(): 	</head>
+Line: 145 - XSLTProcessor::importStylesheet(): 	       ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:75: parser error : Opening and ending tag mismatch: head line 25 and html
+Line: 145 - XSLTProcessor::importStylesheet(): </html>
+Line: 145 - XSLTProcessor::importStylesheet():        ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:77: parser error : Opening and ending tag mismatch: html line 23 and xsl:template
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet():                ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:79: parser error : Opening and ending tag mismatch: template line 17 and stylesheet
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:80: parser error : Premature end of data in tag stylesheet line 2
+Line: 145 - XSLTProcessor::importStylesheet(): 
+Line: 145 - XSLTProcessor::importStylesheet(): ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/pages/home.xsl line 4 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 272
+09 April 2012 21:21 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:22 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:45: parser error : Opening and ending tag mismatch: meta line 41 and head
+Line: 145 - XSLTProcessor::importStylesheet(): 	</head>
+Line: 145 - XSLTProcessor::importStylesheet(): 	       ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:75: parser error : Opening and ending tag mismatch: head line 25 and html
+Line: 145 - XSLTProcessor::importStylesheet(): </html>
+Line: 145 - XSLTProcessor::importStylesheet():        ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:77: parser error : Opening and ending tag mismatch: html line 23 and xsl:template
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet():                ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:79: parser error : Opening and ending tag mismatch: template line 17 and stylesheet
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:80: parser error : Premature end of data in tag stylesheet line 2
+Line: 145 - XSLTProcessor::importStylesheet(): 
+Line: 145 - XSLTProcessor::importStylesheet(): ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/pages/home.xsl line 4 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 272
+09 April 2012 21:22 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:22 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:45: parser error : Opening and ending tag mismatch: meta line 41 and head
+Line: 145 - XSLTProcessor::importStylesheet(): 	</head>
+Line: 145 - XSLTProcessor::importStylesheet(): 	       ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:75: parser error : Opening and ending tag mismatch: head line 25 and html
+Line: 145 - XSLTProcessor::importStylesheet(): </html>
+Line: 145 - XSLTProcessor::importStylesheet():        ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:77: parser error : Opening and ending tag mismatch: html line 23 and xsl:template
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet():                ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:79: parser error : Opening and ending tag mismatch: template line 17 and stylesheet
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:80: parser error : Premature end of data in tag stylesheet line 2
+Line: 145 - XSLTProcessor::importStylesheet(): 
+Line: 145 - XSLTProcessor::importStylesheet(): ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/pages/home.xsl line 4 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 272
+09 April 2012 21:22 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:22 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:44: parser error : Opening and ending tag mismatch: meta line 40 and head
+Line: 145 - XSLTProcessor::importStylesheet(): 	</head>
+Line: 145 - XSLTProcessor::importStylesheet(): 	       ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:74: parser error : Opening and ending tag mismatch: head line 25 and html
+Line: 145 - XSLTProcessor::importStylesheet(): </html>
+Line: 145 - XSLTProcessor::importStylesheet():        ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:76: parser error : Opening and ending tag mismatch: html line 23 and xsl:template
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet():                ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:78: parser error : Opening and ending tag mismatch: template line 17 and stylesheet
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl:79: parser error : Premature end of data in tag stylesheet line 2
+Line: 145 - XSLTProcessor::importStylesheet(): 
+Line: 145 - XSLTProcessor::importStylesheet(): ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/pages/home.xsl line 4 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/Jonesy/Dropbox/Rock%20Out%20Media/thisisjonesy/workspace/utilities/master.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 272
+09 April 2012 21:22 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:23 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/js/libs/modernizr-2.5.3.min.js/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:23 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/js/libs/modernizr-2.5.3.min.js/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:23 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:23 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:23 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:24 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/js/libs/modernizr-2.5.3.min.js/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:24 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:35 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:42 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:48 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 21:49 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:39 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:40 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 22:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:45 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:45 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:46 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:46 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:46 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315
+09 April 2012 23:46 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/404.html/</code>, does not exist. in file /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/symphony/lib/toolkit/class.frontendpage.php on line 315

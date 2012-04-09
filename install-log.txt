@@ -1,0 +1,32 @@
+============================================
+Log Created: 2012-04-09T17:46:52+00:00
+============================================
+Symphony Installer Log
+Opened: 2012-04-09T17:46:52+00:00
+Version: 2.2.5
+Domain: http://local.thisisjonesy2.com
+--------------------------------------------
+2012/04/09 17:46:52 > Notice: Configuration - Workspace folder not writable: /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/workspace
+2012/04/09 17:47:01 > Notice: Configuration - Workspace folder not writable: /Users/Jonesy/Dropbox/Rock Out Media/thisisjonesy/workspace
+
+============================================
+INSTALLATION PROCESS STARTED (2012-04-09T17:47:25+00:00)
+============================================
+2012/04/09 17:47:25 > Notice: MYSQL: Establishing Connection...Done
+2012/04/09 17:47:25 > Notice: MYSQL: Selecting Database 'thisisjonesy'...Done
+2012/04/09 17:47:25 > Notice: MYSQL: Importing Table Schema...Done
+2012/04/09 17:47:27 > Notice: MYSQL: Creating Default Author...Done
+2012/04/09 17:47:27 > Notice: WRITING: Creating 'manifest' folder (/manifest)
+2012/04/09 17:47:27 > Notice: WRITING: Creating 'logs' folder (/manifest/logs)
+2012/04/09 17:47:27 > Notice: WRITING: Creating 'cache' folder (/manifest/cache)
+2012/04/09 17:47:27 > Notice: WRITING: Creating 'tmp' folder (/manifest/tmp)
+2012/04/09 17:47:27 > Notice: WRITING: Configuration File
+2012/04/09 17:47:27 > Notice: CONFIGURING: Frontend
+2012/04/09 17:47:27 > Notice: MYSQL: Importing Workspace Data...Done
+2012/04/09 17:47:29 > Notice: Installation Process Completed In 4 sec
+============================================
+INSTALLATION COMPLETED: Execution Time - 4 sec (09.04.12 17:47:29)
+============================================
+
+
+
